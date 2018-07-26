@@ -67,7 +67,8 @@
     <Content Include="images\StoreLogo.png" />
     <Content Include="images\Wide310x150Logo.scale-200.png" />
     <Content Include="css\default.css" />
-    <Content Include="js\TMSrpg.js" />
+    <Content Include="js\TMSrpg.0.1.1a.1.2b.5.18.23.24.26.js" />
+    <Content Include="js\TMSrpg.0.1.3a.1.3a.7.26.19.19.39..js" />
     <None Include="TMSrpg fixed by TAKAKAZE_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
